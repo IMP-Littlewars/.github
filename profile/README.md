@@ -4,6 +4,8 @@
 Developer : 김홍덕, 전현성
 
 Date : 22.03.02 ~ 22.06.20
+
+Video : https://youtu.be/JyJZx7s7fDM
 <!--
 
 **Here are some ideas to get you started:**
